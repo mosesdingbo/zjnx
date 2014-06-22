@@ -1,0 +1,94 @@
+{
+    "button": [
+        {
+            "name": "校园查询", 
+            "sub_button": [
+                {
+                    "type": "click", 
+                    "name": "信息公告", 
+                    "key": "V1001"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "教务信息", 
+                    "url": "http://wlkt.nuist.edu.cn/"
+                }, 
+                {
+                    "type": "click", 
+                    "name": "招聘信息", 
+                    "key": "V1003"
+                }, 
+                {
+                    "type": "click", 
+                    "name": "图书馆", 
+                    "key": "V1004"
+                }, 
+                {
+                    "type": "click", 
+                    "name": "校园活动", 
+                    "key": "V1005"
+                }
+            ]
+        }, 
+        {
+            "name": "周边/优惠", 
+            "sub_button": [
+                {
+                    "type": "view", 
+                    "name": "去哪吃", 
+                    "url": "http://ele.me/place/4393bb247be9"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "去哪买", 
+                    "url": "http://shop.wechat58.com/index.php/index.php?m=Index&a=index&comid=83"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "去哪唱", 
+                    "url": "http://map.baidu.com/mobile/webapp/search/search/qt=s&wd=KTV&searchFlag=more_cate&c=315&center_rank=1&nb_x=13216943.56&nb_y=3768334.97/center_name=%E6%88%91%E7%9A%84%E4%BD%8D%E7%BD%AE?from=singlemessage&isappinstalled=0"
+                }, 
+                {
+                    "type": "click", 
+                    "name": "去哪住", 
+                    "key": "V2004"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "更多在这里", 
+                    "url": "http://www.wechat58.com/wxcore/business/website/index.php?sign=o1r72t5xa5n1lguE-jj-F7iBEDC0&uid=3409"
+                }
+            ]
+        }, 
+        {
+            "name": "服务/活动", 
+            "sub_button": [
+                {
+                    "type": "view", 
+                    "name": "最新兼职", 
+                    "url":"http://mp.weixin.qq.com/s?__biz=MzA4NjQwMTIzOA==&mid=200314339&idx=1&sn=f7aca0637d8f1225154a3f15a85929b4&key=d7e970edec361a55e8ad8f9099b2ddc35e84d82a1d675f08e5314dc9ea22b487be71f60b0cf9b8bd93765c216e30a814&ascene=1&uin=MjgyNzYwMjM1"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "论坛", 
+                    "url": "http://wx.wsq.qq.com/243113113/"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "游戏", 
+                    "url": "http://www.duopao.com/games/index"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "签到送话费", 
+                    "url": "http://3g.inbai.com/interface/signin/signin.jsp?agentid=113538&from=message&isappinstalled=0"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "合作方式", 
+                    "url":"http://mp.weixin.qq.com/s?__biz=MzA4NjQwMTIzOA==&mid=200315562&idx=1&sn=ab7ffa55dc8149c1f381b15c9916a13f&key=d7e970edec361a5562ea6335cdfeb6f870072df14409bc527112e4f9243868b4cb962a14c68cd53eba6210fcd3c9be00&ascene=1&uin=MjgyNzYwMjM1"
+                }
+            ]
+        }
+    ]
+}
